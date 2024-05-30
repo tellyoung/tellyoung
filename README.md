@@ -2,8 +2,6 @@
 My name is ✨Tieyang Yu✨
 - 🔭 I’m currently working on HUAWEI
 - 🌱 I’m currently learning ...
-  https://github-readme-stats.vercel.app/api?username=tellyoung&show_icons=true&theme=calm
-
 
 <picture>
 <source 
