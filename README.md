@@ -1,8 +1,9 @@
 ## Hi there 👋
 My name is ✨Tieyang Yu✨
-- 🔭 I’m currently working on HUAWEI
-- 🌱 I’m currently learning ...
-
+- 🔭 I’m currently working on HUAWEI.
+- 🌱 I’m currently learning low-bit quantization for llm.
+- 📫 How to reach me: tellyuty@163.com
+- 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=tellyoung&show_icons=true&theme=calm"
