@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is ✨Tieyang Yu✨
 - 🔭 I’m currently working on HUAWEI.
-- 🌱 I’m currently learning low-bit quantization for llm.
+- 🌱 I’m currently learning low-bit quantization for LLMs.
 - 📫 email: tellyuty@163.com
  
 <picture>
