@@ -1,8 +1,8 @@
 ## Hi there 👋
-My name is ✨Tieyang Yu✨
+My name is ✨Tellyoung✨
 - 🔭 I’m currently working on HUAWEI.
 - 🌱 I’m currently learning low-bit quantization for LLMs.
-- 📫 email: tellyuty@163.com
+- 📫 How to reach me: tellyuty@163.com
  
 <picture>
 <source 
